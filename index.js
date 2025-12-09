@@ -3,7 +3,7 @@ console.log(name);
 console.log(10 + 5);
 const a = 10;
 console.log(a);
-
+const a = 10;
 const greetings = (name) => {
   console.log(`welcome ${name}`);
 };
